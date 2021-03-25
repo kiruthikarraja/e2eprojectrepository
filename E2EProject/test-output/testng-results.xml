@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23454" started-at="2021-03-23T10:13:34Z" finished-at="2021-03-23T10:13:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23454" started-at="2021-03-23T10:13:34Z" finished-at="2021-03-23T10:13:58Z">
+      <class name="TestCasesScripts.DealOfTheDayViewall">
+        <test-method status="PASS" signature="dealOfTheDayViewall()[pri:4, instance:TestCasesScripts.DealOfTheDayViewall@cc285f4]" name="dealOfTheDayViewall" duration-ms="7253" started-at="2021-03-23T10:13:50Z" finished-at="2021-03-23T10:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dealOfTheDayViewall -->
+      </class> <!-- TestCasesScripts.DealOfTheDayViewall -->
+      <class name="TestCasesScripts.SkipLogin">
+        <test-method status="PASS" signature="skipLogin()[pri:2, instance:TestCasesScripts.SkipLogin@c038203]" name="skipLogin" duration-ms="445" started-at="2021-03-23T10:13:42Z" finished-at="2021-03-23T10:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skipLogin -->
+      </class> <!-- TestCasesScripts.SkipLogin -->
+      <class name="TestCasesScripts.HasDealsOfTheDay">
+        <test-method status="PASS" signature="hasDealsOfTheDay()[pri:3, instance:TestCasesScripts.HasDealsOfTheDay@29ee9faa]" name="hasDealsOfTheDay" duration-ms="8354" started-at="2021-03-23T10:13:42Z" finished-at="2021-03-23T10:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hasDealsOfTheDay -->
+      </class> <!-- TestCasesScripts.HasDealsOfTheDay -->
+      <class name="TestCasesScripts.NavigateToFlipkart">
+        <test-method status="PASS" signature="navigateToFlipkart()[pri:1, instance:TestCasesScripts.NavigateToFlipkart@724af044]" name="navigateToFlipkart" duration-ms="7350" started-at="2021-03-23T10:13:34Z" finished-at="2021-03-23T10:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToFlipkart -->
+      </class> <!-- TestCasesScripts.NavigateToFlipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
